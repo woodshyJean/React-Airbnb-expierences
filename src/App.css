@@ -1,0 +1,19 @@
+.Container-minicards{
+    padding-left: 37px;
+    display: flex;
+}
+
+.container-airbnb{
+    width: 550px;
+    height: 853px;
+    background-color: #FFFFFF;
+    border-radius: 8.95px;
+}
+
+.main{
+    display: flex;
+    justify-content: center;
+    background-color: #E5E5E5;
+    height: 100vh;
+    align-items: center;
+}

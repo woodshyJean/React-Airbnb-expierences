@@ -1,0 +1,13 @@
+.container-nav{
+    display:flex;
+    height: 70px;
+    justify-content: flex-start;
+    align-items: center;
+    box-shadow: 0px 2.98256px 7.4564px rgba(0, 0, 0, 0.1);
+}
+
+.nav-logo{
+    width:82px;
+    height:25.35px;
+    margin-left: 30px;
+}

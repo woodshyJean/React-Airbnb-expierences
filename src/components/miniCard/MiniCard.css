@@ -1,0 +1,89 @@
+.container-minicard{
+    display: flex;
+    flex-direction: column;
+    max-width:176px;
+    font-family: 'Poppins', sans-serif;
+    padding-right: 18px;
+}
+
+.container-image{
+    position: relative;
+    max-height: 235px;
+    padding-bottom: 9px;
+}
+
+.main-img{
+    width:176px;
+    padding-bottom: 9px;
+}
+
+.main-button{
+    position: absolute ;
+    z-index: 100;
+    top:6px;
+    left:6px;
+    height: 20px;
+}
+
+.container-info{
+    display:flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+
+
+.rating{
+    display:flex;
+    align-items: center;
+    font-size: 12px;
+    padding-bottom: 8px;
+}
+
+.parenthesis{
+    padding-right: 2px;
+    color:#918E9B;
+}
+
+.num{
+    padding-right: 2px;
+}
+
+.ellipse{
+    width:2px;
+    height: 2px;
+    padding-right: 2px;
+}
+
+.star{
+    height:14px;
+    padding-right: 2px;
+}
+.usa{
+    color: #918E9B;
+}
+
+.text1{
+    max-width: 175px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 12px;
+    line-height: 110%;
+
+}
+
+.text1{
+    padding-bottom: 8px;
+    line-height: 13.2px;
+}
+
+.text2{
+    font-style: normal;
+    font-weight: 300;
+    font-size: 12px;
+}
+
+.text2-bold{
+    font-weight: 600;
+}
